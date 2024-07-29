@@ -1,6 +1,6 @@
-#                    👨‍💻 𝓥𝓪𝓼𝓾 𝓖𝓾𝓹𝓽𝓪 👨‍💻
+<h1 align="center">👨‍💻 𝓥𝓪𝓼𝓾 𝓖𝓾𝓹𝓽𝓪 👨‍💻</h1>
 
-## 🚀 Blockchain Enthusiast | Smart Contract Developer | Tech Explorer
+<h3 align="center">🚀 Blockchain Enthusiast | Smart Contract Developer | Tech Explorer</h3>
 
 
 # 💫 About Me:
